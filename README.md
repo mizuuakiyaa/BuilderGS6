@@ -8,7 +8,7 @@ the forked repo for cmd window (the builder is based on it): https://github.com/
 # What's implemented?
 
 -Command for making chart even if they have mismatched combos
--prewiev music cutter
+- prewiev music cutter
 - .json/.json.gz files can be transformed into charts
 - it allows layers to be added to the chart
 # Commands for things
