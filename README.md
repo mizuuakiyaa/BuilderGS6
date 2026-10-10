@@ -1,6 +1,8 @@
 # BuilderGS6
 A modified builder for the offline game gridless sekai 6.
+
 the official repo: https://github.com/UnknownSekai/GridlessSekai6
+
 the forked repo for cmd window (the builder is based on it): https://github.com/733402/gs6
 
 >What's implemented?
