@@ -5,6 +5,8 @@ the official repo: https://github.com/UnknownSekai/GridlessSekai6
 
 the forked repo for cmd window (the builder is based on it): https://github.com/733402/gs6
 
+Report any problems/bugs through issues
+
 # What's implemented?
 
 - Command for making chart even if they have mismatched combos
